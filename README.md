@@ -52,6 +52,10 @@ For running the test cases
 python -m pytest -v -s   
 ```
 
+## Links
+API URL : https://imdbapp-fastapi-fynd.herokuapp.com/
+API DOCS and SCHEMAS : https://imdbapp-fastapi-fynd.herokuapp.com/redoc
+
 ## License
 
 MIT
