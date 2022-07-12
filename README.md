@@ -16,6 +16,11 @@ This is a Api that dispalys the data of all the Movies along with its genre and 
 - Update movie details
 - Delete any specific movie
 - Add new Movies
+
+### Examples
+
+Fear not! No table with a list of available options comes without a section with examples of how to use them.
+
 | URL                                | Description                              |
 | ---------------------------------- | ---------------------------------------- |
 | `/image.jpg?w=500`                 | Set width to `500` and use the height from image’s aspect ratio. |
@@ -26,3 +31,5 @@ This is a Api that dispalys the data of all the Movies along with its genre and 
 | `/image.jpg?w=150&h=100&mode=fit`  | Fit image to `150x100`.                  |
 | `/file.pdf`                        | No parameters makes it viewable.         |
 | `/file.pdf?download=true`          | Force download of file.                  |
+
+## Pagination
